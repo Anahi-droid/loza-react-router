@@ -8,7 +8,6 @@ import ProductDetailPage from './pages/ProductDetailPage'
 import AboutPage        from './pages/AboutPage'
 import LoginPage        from './pages/LoginPage'
 import NotFoundPage     from './pages/NotFoundPage'
-import ZodRegistrationForm from './pages/ZodRegistrationForm'
 
 // Páginas del dashboard (simples por ahora)
 function Overview()   { return <h2>Resumen</h2> }
